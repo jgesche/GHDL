@@ -1,0 +1,63 @@
+$date
+  Sun Apr  5 08:46:22 2020
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module tb_decoder_3x8_seq $end
+$var reg 3 ! d_in[2:0] $end
+$var reg 8 " q_out[7:0] $end
+$scope module uut $end
+$var reg 3 # d_in[2:0] $end
+$var reg 8 $ q_out[7:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+b000 !
+b00000001 "
+b000 #
+b00000001 $
+#10000000
+b001 !
+b00000010 "
+b001 #
+b00000010 $
+#20000000
+b010 !
+b00000100 "
+b010 #
+b00000100 $
+#30000000
+b011 !
+b00001000 "
+b011 #
+b00001000 $
+#40000000
+b100 !
+b00010000 "
+b100 #
+b00010000 $
+#50000000
+b101 !
+b00100000 "
+b101 #
+b00100000 $
+#60000000
+b110 !
+b01000000 "
+b110 #
+b01000000 $
+#70000000
+b111 !
+b10000000 "
+b111 #
+b10000000 $
+#80000000

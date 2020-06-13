@@ -1,0 +1,9 @@
+version: '3'
+services:
+  ghdl:
+    image: ghdl/run:ubuntu18-mcode
+    volumes:
+      - .:/src
+    working_dir: /src
+    stdin_open: true
+    tty: true

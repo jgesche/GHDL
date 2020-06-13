@@ -1,0 +1,7 @@
+v 4
+file . "tb_sr_latch.vhd" "fcbdd771dc489f4782968142acb0ba770b40d1f4" "20200514193746.229":
+  entity tb_sr_latch at 11( 332) + 0 on 17;
+  architecture behavior of tb_sr_latch at 19( 431) + 0 on 18;
+file . "sr_latch.vhd" "1dbb6fd4ff10df7a882317e008917b65ecc9b169" "20200514192342.631":
+  entity sr_latch at 12( 330) + 0 on 11;
+  architecture rtl of sr_latch at 24( 497) + 0 on 12;

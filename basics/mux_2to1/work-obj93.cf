@@ -1,0 +1,7 @@
+v 4
+file . "mux_2to1.vhd" "4a3842cf30be2faaef6884417442ad1f2ad93eda" "20200404074812.698":
+  entity mux_2to1_top at 1( 0) + 0 on 23;
+  architecture rtl of mux_2to1_top at 12( 220) + 0 on 24;
+file . "mux_2to1_tb.vhd" "2e50cae9a3c5c3b3308c8d571a9e69111f109626" "20200404075039.301":
+  entity mux_2to1_tb at 1( 0) + 0 on 29;
+  architecture behavior of mux_2to1_tb at 7( 84) + 0 on 30;

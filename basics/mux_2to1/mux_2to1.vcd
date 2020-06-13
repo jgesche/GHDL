@@ -1,0 +1,25 @@
+$date
+  Sun Apr  5 07:34:11 2020
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module mux_2to1_top $end
+$var reg 3 ! a1[2:0] $end
+$var reg 3 " a2[2:0] $end
+$var reg 1 # sel $end
+$var reg 3 $ b[2:0] $end
+$upscope $end
+$enddefinitions $end
+#0
+bUUU !
+bUUU "
+U#
+bUUU $
