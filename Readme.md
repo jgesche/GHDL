@@ -1,15 +1,14 @@
-#### Set up a toolchain for VHDL
+#### VHDL toolchain setup
 
-The goal is the setup of a working docker based tool chain. 
+Setup of a working docker based GHDL and GTKwave toolchain. 
 
 ### GHDL 
 
-The setup in a docker container is straight forward.
-Just build and run the provided Dockerfile.
+Build and run the Docker image. 
 
 ### GTKWave
 
-Setting up GtkWave was a little bit more involved.
+Setting up GtkWave is a little bit more involved.
 The setup of GTKwave is based on the guide from 
 https://ughe.github.io/2018/11/06/gtkwave-osx
 Since I am using a Mac I used brew to install GTK
